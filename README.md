@@ -16,13 +16,13 @@ Task 2: The choice of the second task is your own. For instance, an angle would 
 Algorithms applied are:
 
 K-NN with K=8
-Guassian Naive Bayes
-Bernoulli Naive Bayes
-SVM with linear kernel
-Decision Tree
-Random forest
-Extra Tree
-Bagging with decision tree
+,Guassian Naive Bayes
+,Bernoulli Naive Bayes
+,SVM with linear kernel
+,Decision Tree
+,Random forest
+,Extra Tree
+,Bagging with decision tree
 
 Also, Model metrics, results are shown in the form of classification report, confusion matrix, ROC curves
 
@@ -34,9 +34,9 @@ tested various levels of unlabelled data, notably 0% (fully supervised - baselin
 Algorithms applied/ tried are:
 
 Label propagation
-Label spreading
-Particle comptetion and cooperation
-Naive Bayes
-K-NN
+,Label spreading
+,Particle comptetion and cooperation
+,Naive Bayes
+,K-NN
 
 
